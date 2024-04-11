@@ -1,0 +1,21 @@
+Driver ID,Driver Name,Constructor ID,Constructor Name
+830.0,Verstappen,9.0,red_bull
+844.0,Leclerc,6.0,ferrari
+815.0,Pérez,9.0,red_bull
+832.0,Sainz,6.0,ferrari
+847.0,Russell,131.0,mercedes
+846.0,Norris,1.0,mclaren
+839.0,Ocon,214.0,alpine
+840.0,Stroll,117.0,aston_martin
+817.0,Ricciardo,1.0,mclaren
+20.0,Vettel,117.0,aston_martin
+852.0,Tsunoda,213.0,alphatauri
+855.0,Zhou,51.0,alfa
+848.0,Albon,3.0,williams
+842.0,Gasly,213.0,alphatauri
+822.0,Bottas,51.0,alfa
+854.0,Schumacher,210.0,haas
+825.0,Magnussen,210.0,haas
+1.0,Hamilton,131.0,mercedes
+849.0,Latifi,3.0,williams
+4.0,Alonso,214.0,alpine
